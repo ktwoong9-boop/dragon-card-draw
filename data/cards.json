@@ -1,0 +1,80 @@
+{
+  "version": "20261011-115636",
+  "cards": [
+    {
+      "id": "67f454bf",
+      "name": "그레이트 월",
+      "image": "assets/cards/67f454bf.png"
+    },
+    {
+      "id": "18b66da4",
+      "name": "그레이트 힐링",
+      "image": "assets/cards/18b66da4.png"
+    },
+    {
+      "id": "ae4c1d66",
+      "name": "그림자 드래곤",
+      "image": "assets/cards/ae4c1d66.png"
+    },
+    {
+      "id": "e22f98e7",
+      "name": "대천사의 강림",
+      "image": "assets/cards/e22f98e7.png"
+    },
+    {
+      "id": "10ccb502",
+      "name": "루비 드래곤",
+      "image": "assets/cards/10ccb502.png"
+    },
+    {
+      "id": "b4da19d0",
+      "name": "맹독",
+      "image": "assets/cards/b4da19d0.png"
+    },
+    {
+      "id": "7714c41a",
+      "name": "메테오",
+      "image": "assets/cards/7714c41a.png"
+    },
+    {
+      "id": "b853dabe",
+      "name": "아이스 스피어",
+      "image": "assets/cards/b853dabe.png"
+    },
+    {
+      "id": "40fdba85",
+      "name": "천사의 축복",
+      "image": "assets/cards/40fdba85.png"
+    },
+    {
+      "id": "ac71d806",
+      "name": "태풍",
+      "image": "assets/cards/ac71d806.png"
+    },
+    {
+      "id": "527bdad7",
+      "name": "투헤드 드래곤",
+      "image": "assets/cards/527bdad7.png"
+    },
+    {
+      "id": "c2f5e1e1",
+      "name": "티타늄 드래곤",
+      "image": "assets/cards/c2f5e1e1.png"
+    },
+    {
+      "id": "a64fd0c9",
+      "name": "파이어 볼",
+      "image": "assets/cards/a64fd0c9.png"
+    },
+    {
+      "id": "4daa441f",
+      "name": "팬덤 드래곤",
+      "image": "assets/cards/4daa441f.png"
+    },
+    {
+      "id": "5e2e2812",
+      "name": "황금룡",
+      "image": "assets/cards/5e2e2812.png"
+    }
+  ]
+}
